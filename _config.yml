@@ -1,0 +1,12 @@
+title: Your Name
+description: "Bioinformatics • Statistics • Photography"
+theme: minima
+
+plugins:
+  - jekyll-feed
+
+header_pages:
+  - about.md
+  - projects.md
+  - cv.md
+  - photos.md
