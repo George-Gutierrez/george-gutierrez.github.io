@@ -1,7 +1,16 @@
 ---
 layout: page
-title: CV
+title: CV / Resume
 permalink: /cv/
 ---
 
-Write a short bio here.
+## Education
+- ...
+
+## Experience
+- ...
+
+## Skills
+- ...
+
+[Download PDF]( /assets/YourName_CV.pdf )
